@@ -1,36 +1,36 @@
 [
    {
-       "name" : "God of War Ragnarok",
+       "name" : "god of War Ragnarok",
        "price" : 299.00,
        "image" : "gowragnarok.jpg",
        "type" : "adventure"
    },
    {
-       "name" : "God of War 2018",
+       "name" : "god of War 2018",
        "price" : 99.00,
        "image" : "gow2018.jpg",
        "type" : "adventure"
    },
    {
-       "name" : "Uncharted 2",
+       "name" : "uncharted 2",
        "price" : 99.00,
        "image" : "uc.jpg",
        "type" : "adventure"
    },
    {
-       "name" : "Horizon Zero Dawn",
+       "name" : "horizon Zero Dawn",
        "price" : 99.00,
        "image" : "gowragnarok.jpg",
        "type" : "rpg"
    },
    { 
-       "name" : "Ghost of Tsushima",
+       "name" : "ghost of Tsushima",
        "price" : 199.00,
        "image" : "got.jpg",
        "type" : "rpg"
    },
    {
-       "name" : "Gran Turismo 7",
+       "name" : "gran Turismo 7",
        "price" : 299.00,
        "image" : "gt7.jpg",
        "type" : "corrida"
